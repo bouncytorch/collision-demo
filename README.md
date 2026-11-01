@@ -1,6 +1,8 @@
 # Separating axis theorem + AABB collision demo
 A simple C++20 demo to showcase my research on collision detection algorithms for convex shapes, as well as process optimization.
 
+https://github.com/user-attachments/assets/f682a2da-102f-4be2-b0e6-9149fed1cbef
+
 ## Building
 ```log
 cmake . -B build && cmake --build build --config Debug
